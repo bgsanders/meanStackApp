@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bgsanders/mean-stack-app.git"
+    "url": "git+https://github.com/bgsanders/meanStackApp.git"
   },
   "keywords": [
     "mean"
@@ -17,9 +17,9 @@
   "author": "Bobby Sanders, Jr.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bgsanders/mean-stack-app/issues"
+    "url": "https://github.com/bgsanders/meanStackApp/issues"
   },
-  "homepage": "https://github.com/bgsanders/mean-stack-app#readme",
+  "homepage": "https://github.com/bgsanders/meanStackApp#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
