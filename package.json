@@ -1,0 +1,31 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodejs app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgsanders/mean-stack-app.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Bobby Sanders, Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgsanders/mean-stack-app/issues"
+  },
+  "homepage": "https://github.com/bgsanders/mean-stack-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.0-rc0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
